@@ -1,6 +1,6 @@
 # MultiClipboard
 
-### Multiclipboard.pyw Saves and load pieces of texxt to the clipboard
+### Multiclipboard.pyw Saves and load pieces of text to the clipboard
 #### Usage :   
 - Saves clipboard to keyword
 ```
